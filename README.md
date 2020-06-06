@@ -24,6 +24,6 @@ image and the bottom part is of the reconstructed images.
 |Reconstruction after 10 Epochs        |Reconstruction after 40 Epochs        |
 
 # Image Generation
-
+Using CVAE we can also generate images. 
 | ![](resources/Generated_0_.png) | ![](resources/Generated_5_.png) |![](resources/Generated_9_.png) |
 |--------------------------------------|--------------------------------------|--------------------------------------|
